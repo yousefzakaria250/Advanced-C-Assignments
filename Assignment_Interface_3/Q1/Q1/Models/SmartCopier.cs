@@ -10,9 +10,7 @@ namespace Q1.Models
     internal class SmartCopier : OfficeMachine , IPrinter, IScanner, IFax , IMaintenance
     {
         public SmartCopier(string modelName) :base(modelName)
-        {
-            
-        }
+        { }
         public void Fax(string doc, string number)
         {
             Console.WriteLine($"SmartCopier faxing: {doc} to {number}");
