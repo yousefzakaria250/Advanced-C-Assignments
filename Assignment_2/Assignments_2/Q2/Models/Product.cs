@@ -39,16 +39,18 @@ namespace Q2.Models
             }
         }
 
-        public bool AdjustStockAndAvailability(Product product)
+        public void Add()
+        { 
+            this.StockQuantity++;
+        }
+
+        public bool Remove()
         {
-            if(product.IsAvailable) 
-            {
-                return true;
-            }
-            else
-            {
+            if(!this.IsAvailable)
                 return false;
-            }
+
+            StockQuantity--;
+            return true;
         }
 
         public override string ToString()

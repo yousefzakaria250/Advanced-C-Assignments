@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\UpSkilling Advanced\\Assignments\\Assignment_2\\Assignments_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E1512E5-3C83-4ED6-93CD-57024B775925}|Q3\\Q3.csproj|d:\\upskilling advanced\\assignments\\assignment_2\\assignments_2\\q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E1512E5-3C83-4ED6-93CD-57024B775925}|Q3\\Q3.csproj|solutionrelative:q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5A319F1-CDCD-41C9-B715-733737AAED77}|Q1\\Q1.csproj|d:\\upskilling advanced\\assignments\\assignment_2\\assignments_2\\q1\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A319F1-CDCD-41C9-B715-733737AAED77}|Q1\\Q1.csproj|solutionrelative:q1\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E1512E5-3C83-4ED6-93CD-57024B775925}|Q3\\Q3.csproj|d:\\upskilling advanced\\assignments\\assignment_2\\assignments_2\\q3\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E1512E5-3C83-4ED6-93CD-57024B775925}|Q3\\Q3.csproj|solutionrelative:q3\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7427736B-3FD2-4DDB-B794-0E05D52BA448}|Q2\\Q2.csproj|d:\\upskilling advanced\\assignments\\assignment_2\\assignments_2\\q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7427736B-3FD2-4DDB-B794-0E05D52BA448}|Q2\\Q2.csproj|solutionrelative:q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7427736B-3FD2-4DDB-B794-0E05D52BA448}|Q2\\Q2.csproj|d:\\upskilling advanced\\assignments\\assignment_2\\assignments_2\\q2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7427736B-3FD2-4DDB-B794-0E05D52BA448}|Q2\\Q2.csproj|solutionrelative:q2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1512E5-3C83-4ED6-93CD-57024B775925}|Q3\\Q3.csproj|d:\\upskilling advanced\\assignments\\assignment_2\\assignments_2\\q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1512E5-3C83-4ED6-93CD-57024B775925}|Q3\\Q3.csproj|solutionrelative:q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UpSkilling Advanced\\Assignments\\Assignment_2\\Assignments_2\\Q2\\Program.cs",
+              "RelativeDocumentMoniker": "Q2\\Program.cs",
+              "ToolTip": "D:\\UpSkilling Advanced\\Assignments\\Assignment_2\\Assignments_2\\Q2\\Program.cs",
+              "RelativeToolTip": "Q2\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:42:06.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\UpSkilling Advanced\\Assignments\\Assignment_2\\Assignments_2\\Q2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Q2\\Models\\Product.cs",
+              "ToolTip": "D:\\UpSkilling Advanced\\Assignments\\Assignment_2\\Assignments_2\\Q2\\Models\\Product.cs",
+              "RelativeToolTip": "Q2\\Models\\Product.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:31:58.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\UpSkilling Advanced\\Assignments\\Assignment_2\\Assignments_2\\Q1\\Models\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Q1\\Models\\BankAccount.cs",
+              "ToolTip": "D:\\UpSkilling Advanced\\Assignments\\Assignment_2\\Assignments_2\\Q1\\Models\\BankAccount.cs",
+              "RelativeToolTip": "Q1\\Models\\BankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:28:06.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,13 +83,14 @@
               "RelativeDocumentMoniker": "Q3\\Models\\Car.cs",
               "ToolTip": "D:\\UpSkilling Advanced\\Assignments\\Assignment_2\\Assignments_2\\Q3\\Models\\Car.cs",
               "RelativeToolTip": "Q3\\Models\\Car.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAqwB4AAABmAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvyMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:10:36.317Z"
+              "WhenOpened": "2025-05-21T12:10:36.317Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\UpSkilling Advanced\\Assignments\\Assignment_2\\Assignments_2\\Q3\\Program.cs",
               "RelativeDocumentMoniker": "Q3\\Program.cs",

@@ -12,11 +12,11 @@ Product product01 = new Product()
     StockQuantity = 0
 };
 
-if (product01.IsAvailable)
-    Console.WriteLine(product01);
+       // product01.Add();
+       // Console.WriteLine(product01);
 
-else
-{
-    product01.StockQuantity = 100;
+    var res = product01.Remove();
+if (res)
     Console.WriteLine(product01);
-}
+else
+    Console.WriteLine("Not Avaliable in Stock !!");

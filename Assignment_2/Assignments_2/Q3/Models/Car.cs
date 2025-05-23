@@ -22,6 +22,7 @@ namespace Q3.Models
 
         public double Drive(int distance)
         {
+            if(distance < 0) distance = 0;
             Mileage = Mileage + distance;   
             return Mileage;
         }

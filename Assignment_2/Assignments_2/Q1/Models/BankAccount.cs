@@ -27,12 +27,15 @@ namespace Q1.Models
 
         public double Withdraw(double _balance)
         {
-            Balance = Balance - _balance;
-            return Balance;
+            if (_balance < 0) _balance = 0;         
+                Balance = Balance - _balance;
+                return Balance;
+            
         }
 
         public double Deposite(double _balance)
         {
+            if(_balance < 0) _balance = 0;
             Balance = Balance + _balance;
             return Balance;
         }
