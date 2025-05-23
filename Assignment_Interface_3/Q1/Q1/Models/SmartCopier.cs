@@ -9,7 +9,7 @@ namespace Q1.Models
 {
     internal class SmartCopier : OfficeMachine , IPrinter, IScanner, IFax , IMaintenance
     {
-        public SmartCopier():base("test")
+        public SmartCopier(string modelName) :base(modelName)
         {
             
         }

@@ -12,3 +12,4 @@ D:\UpSkilling Advanced\Assignments\Assignment_Interface_3\Q1\Q1\obj\Debug\net8.0
 D:\UpSkilling Advanced\Assignments\Assignment_Interface_3\Q1\Q1\obj\Debug\net8.0\Q1.pdb
 D:\UpSkilling Advanced\Assignments\Assignment_Interface_3\Q1\Q1\obj\Debug\net8.0\Q1.genruntimeconfig.cache
 D:\UpSkilling Advanced\Assignments\Assignment_Interface_3\Q1\Q1\obj\Debug\net8.0\ref\Q1.dll
+D:\UpSkilling Advanced\Assignments\Assignment_Interface_3\Q1\Q1\obj\Debug\net8.0\Q1.sourcelink.json

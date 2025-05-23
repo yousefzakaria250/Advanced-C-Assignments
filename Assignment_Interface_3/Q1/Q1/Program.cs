@@ -29,7 +29,7 @@ namespace Q1
             Console.WriteLine("-------------------- Q4 ----------------");
 
             SecurePrinter securePrinter = new SecurePrinter();
-            securePrinter.PrintDocument();
+           // securePrinter.PrintDocument();
 
 
             IPrinter printer = new SecurePrinter();
@@ -44,7 +44,7 @@ namespace Q1
 
             Console.WriteLine("-------------------- Q6 ----------------");
 
-            SmartCopier smartCopier = new SmartCopier();
+            SmartCopier smartCopier = new SmartCopier("test model name");
             smartCopier.ShowModelInfo();
             smartCopier.Start();
             smartCopier.Print("Test.pdf");

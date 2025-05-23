@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\UpSkilling Advanced\\Assignments\\Assignment_Interface_3\\Q1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91DB7288-8482-4D72-916E-4B4FEABFBEE0}|Q1\\Q1.csproj|d:\\upskilling advanced\\assignments\\assignment_interface_3\\q1\\q1\\models\\secureprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91DB7288-8482-4D72-916E-4B4FEABFBEE0}|Q1\\Q1.csproj|solutionrelative:q1\\models\\secureprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91DB7288-8482-4D72-916E-4B4FEABFBEE0}|Q1\\Q1.csproj|d:\\upskilling advanced\\assignments\\assignment_interface_3\\q1\\q1\\interfaces\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91DB7288-8482-4D72-916E-4B4FEABFBEE0}|Q1\\Q1.csproj|solutionrelative:q1\\interfaces\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91DB7288-8482-4D72-916E-4B4FEABFBEE0}|Q1\\Q1.csproj|d:\\upskilling advanced\\assignments\\assignment_interface_3\\q1\\q1\\models\\smartcopier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB7288-8482-4D72-916E-4B4FEABFBEE0}|Q1\\Q1.csproj|solutionrelative:q1\\models\\smartcopier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91DB7288-8482-4D72-916E-4B4FEABFBEE0}|Q1\\Q1.csproj|d:\\upskilling advanced\\assignments\\assignment_interface_3\\q1\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91DB7288-8482-4D72-916E-4B4FEABFBEE0}|Q1\\Q1.csproj|solutionrelative:q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91DB7288-8482-4D72-916E-4B4FEABFBEE0}|Q1\\Q1.csproj|d:\\upskilling advanced\\assignments\\assignment_interface_3\\q1\\q1\\models\\smartcopier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91DB7288-8482-4D72-916E-4B4FEABFBEE0}|Q1\\Q1.csproj|solutionrelative:q1\\models\\smartcopier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{91DB7288-8482-4D72-916E-4B4FEABFBEE0}|Q1\\Q1.csproj|d:\\upskilling advanced\\assignments\\assignment_interface_3\\q1\\q1\\models\\officemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91DB7288-8482-4D72-916E-4B4FEABFBEE0}|Q1\\Q1.csproj|solutionrelative:q1\\models\\officemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB7288-8482-4D72-916E-4B4FEABFBEE0}|Q1\\Q1.csproj|d:\\upskilling advanced\\assignments\\assignment_interface_3\\q1\\q1\\models\\secureprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB7288-8482-4D72-916E-4B4FEABFBEE0}|Q1\\Q1.csproj|solutionrelative:q1\\models\\secureprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DB7288-8482-4D72-916E-4B4FEABFBEE0}|Q1\\Q1.csproj|d:\\upskilling advanced\\assignments\\assignment_interface_3\\q1\\q1\\interfaces\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DB7288-8482-4D72-916E-4B4FEABFBEE0}|Q1\\Q1.csproj|solutionrelative:q1\\interfaces\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91DB7288-8482-4D72-916E-4B4FEABFBEE0}|Q1\\Q1.csproj|d:\\upskilling advanced\\assignments\\assignment_interface_3\\q1\\q1\\models\\copier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "SecurePrinter.cs",
               "DocumentMoniker": "D:\\UpSkilling Advanced\\Assignments\\Assignment_Interface_3\\Q1\\Q1\\Models\\SecurePrinter.cs",
               "RelativeDocumentMoniker": "Q1\\Models\\SecurePrinter.cs",
@@ -83,15 +83,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SmartCopier.cs",
               "DocumentMoniker": "D:\\UpSkilling Advanced\\Assignments\\Assignment_Interface_3\\Q1\\Q1\\Models\\SmartCopier.cs",
               "RelativeDocumentMoniker": "Q1\\Models\\SmartCopier.cs",
               "ToolTip": "D:\\UpSkilling Advanced\\Assignments\\Assignment_Interface_3\\Q1\\Q1\\Models\\SmartCopier.cs",
               "RelativeToolTip": "Q1\\Models\\SmartCopier.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAA+AAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T22:25:18.257Z"
+              "WhenOpened": "2025-05-22T22:25:18.257Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -107,15 +108,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "OfficeMachine.cs",
               "DocumentMoniker": "D:\\UpSkilling Advanced\\Assignments\\Assignment_Interface_3\\Q1\\Q1\\Models\\OfficeMachine.cs",
               "RelativeDocumentMoniker": "Q1\\Models\\OfficeMachine.cs",
               "ToolTip": "D:\\UpSkilling Advanced\\Assignments\\Assignment_Interface_3\\Q1\\Q1\\Models\\OfficeMachine.cs",
               "RelativeToolTip": "Q1\\Models\\OfficeMachine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T19:23:52.482Z"
+              "WhenOpened": "2025-05-22T19:23:52.482Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -203,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "IPrinter.cs",
               "DocumentMoniker": "D:\\UpSkilling Advanced\\Assignments\\Assignment_Interface_3\\Q1\\Q1\\Interfaces\\IPrinter.cs",
               "RelativeDocumentMoniker": "Q1\\Interfaces\\IPrinter.cs",
@@ -215,15 +217,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\UpSkilling Advanced\\Assignments\\Assignment_Interface_3\\Q1\\Q1\\Program.cs",
               "RelativeDocumentMoniker": "Q1\\Program.cs",
               "ToolTip": "D:\\UpSkilling Advanced\\Assignments\\Assignment_Interface_3\\Q1\\Q1\\Program.cs",
               "RelativeToolTip": "Q1\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAqAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAC4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T18:59:24.999Z"
+              "WhenOpened": "2025-05-22T18:59:24.999Z",
+              "EditorCaption": ""
             }
           ]
         },
